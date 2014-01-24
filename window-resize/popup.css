@@ -1,0 +1,8 @@
+html, body { margin: 0; padding: 0; width: 180px; }
+
+.menu { list-style: none; margin: 0; padding: 2px; font-size: 1.2em; }
+.menu li a:link,
+.menu li a:visited { display: block; margin: 0; padding: 3px 5px; text-decoration: none; background: #ebebfd; color: #12121f; }
+.menu li a:hover { background: #a8a8fa; }
+.menu li a:active { color: #12121f; }
+
