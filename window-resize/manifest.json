@@ -3,6 +3,7 @@
     "name": "Window Resize Helper",
     "description": "设置窗口的尺寸，以方便发布扩展时按固定尺寸截图（1280x800 or 640x400）。",
     "version": "1.0",
+    "permissions": [ "tabs" ],
 
     "icons": {
         "48": "icons/icon48.png",
