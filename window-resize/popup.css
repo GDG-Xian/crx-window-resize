@@ -1,8 +1,9 @@
 html, body { margin: 0; padding: 0; width: 180px; }
 
-.menu { list-style: none; margin: 0; padding: 2px; font-size: 1.2em; }
+.menu { list-style: none; margin: 0; padding: 0; font-size: 1.2em; }
+.menu li { border: 1px solid #9e9ec6; margin: 1px; }
 .menu li a:link,
-.menu li a:visited { display: block; margin: 0; padding: 3px 5px; text-decoration: none; background: #ebebfd; color: #12121f; }
-.menu li a:hover { background: #a8a8fa; }
+.menu li a:visited { display: block; margin: 0; padding: 3px 5px; text-decoration: none; background: #d8d8e8; color: #0f0f19; outline: none; }
+.menu li a:hover { background: #9191bf; }
 .menu li a:active { color: #12121f; }
 
